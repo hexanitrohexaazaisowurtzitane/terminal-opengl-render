@@ -1,0 +1,350 @@
+{
+  "instructions": [
+    {
+      "command": "begin",
+      "args": [
+        "GL_TRIANGLES"
+      ]
+    },
+    {
+      "command": "color3f",
+      "args": [
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        -0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        -0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        -0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "color3f",
+      "args": [
+        0.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        -0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        -0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        -0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "color3f",
+      "args": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "color3f",
+      "args": [
+        1.0,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        -0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        -0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        -0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        -0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        -0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        -0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "color3f",
+      "args": [
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        -0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        -0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        0.5,
+        -0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "color3f",
+      "args": [
+        0.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        -0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        -0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        -0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "command": "vertex3f",
+      "args": [
+        -0.5,
+        0.5,
+        -0.5
+      ]
+    },
+    {
+      "command": "end",
+      "args": []
+    }
+  ]
+}
